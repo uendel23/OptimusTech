@@ -1,0 +1,23 @@
+@import url("./style/header.css");
+@import url("./style/cabecalho.css");
+@import url("./style/metricas.css");
+@import url("./style/content.css");
+@import url("./style/design.css");
+@import url("./style/depoimentos.css");
+@import url("./style/rodape.css");
+
+:root{
+    --branco: #ffffff;
+    --font-principal: "inter";
+    --cinza-claro:#667085;
+    --cinza-escuro:#3A404E;
+    --vinho: #8E2424;
+    --cinza-medio:#101828;
+
+}
+
+body{
+    font-family:var(--font-principal) ;
+    font-size: 16px;
+    background-color: var(--branco);
+}

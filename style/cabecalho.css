@@ -1,0 +1,32 @@
+.cabecalho{
+    text-align: center;
+}
+
+.cabecalho__sobre{
+   padding: 5em 0 0.5em 0;
+}
+
+.cabecalho__link{
+     color: var(--vinho);
+    font-weight: 600;    
+    text-decoration: none;
+}
+
+.cabecalho__titulo{
+    font-size: 48px;
+    font-weight: 600;
+    color: #101828;
+}
+
+.cabecalho__texto{
+    font-size: 20px;
+    font-weight: 400;
+    padding: 0.5em 20% 2em 20% ;
+    color: var(--cinza-claro);
+}
+
+.metrica__texto{
+    font-weight: 400;
+    color: var(--cinza-claro);
+    padding: auto ;
+}

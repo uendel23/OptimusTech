@@ -1,0 +1,25 @@
+.metricas{
+    display: flex;
+    justify-content: center;
+     margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.container__metricas{
+    list-style: none;
+    padding: 1em 2em;
+   
+}
+.metrica__quantidade{
+    color: var(--vinho);
+    font-size: 60px;
+    font-weight: 600;
+
+}
+
+.metrica__titulo{
+    font-size: 18px;
+    font-weight: 500;
+    padding: 10px 0;
+    color: #101828;
+}

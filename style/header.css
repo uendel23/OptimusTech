@@ -1,0 +1,60 @@
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.containe__logo{
+    margin:0 0.5em 0 5em
+}
+.container__logo-tiulo{
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cinza-escuro);
+
+    
+}
+
+.container__home {
+    background-color: var(--branco);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100vw;
+  
+}
+
+.container__lista {
+    display: flex;
+    list-style: none;
+}
+
+.container__item{
+    padding: 0 1em;
+}
+
+.container__link {
+    color: var(--cinza-claro);
+    text-decoration: none;
+    font-weight: 500;
+}
+.navegacao{
+    display: flex;
+}
+
+.navegacao__item{
+    list-style: none;
+    padding: 0 1em;
+}
+.navegacao__link{
+    text-decoration: none;
+    color: var(--cinza-claro);
+}
+
+.navegacao__link-cadastrar{
+    text-decoration: none;
+    margin-right: 1em;
+    color: var(--branco);
+    padding: 0.5em;
+    background-color: var(--vinho);
+    border-radius: 8px;
+}

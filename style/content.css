@@ -1,0 +1,25 @@
+.content{
+    text-align: center;
+    padding: 7em 0 3em 0;
+}
+.content__link{
+     background-color:  #8E24240D;
+    padding: 0.3em 1em;
+    border-radius: 24px;
+    color: var(--vinho);
+    font-weight: 600;    
+    text-decoration: none;
+}
+
+.content__titulo{
+    font-size: 36px;
+    font-weight: 600;
+    color: #101828;
+}
+
+.content__texto{
+    font-size: 20px;
+    font-weight: 400;
+    padding: 0 0 3em 0;
+    color: var(--cinza-claro);
+}
